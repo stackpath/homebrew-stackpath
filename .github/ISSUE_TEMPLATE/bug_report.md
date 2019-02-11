@@ -35,7 +35,7 @@ A clear and concise description of what you expected to happen.
 A clear and concise description of what happened instead.
 
 **System Details (please complete the following information):**
- * Homebrew Version: [The output from `brew --version`, 2.0.1-23-g1fd8b38]
+ * Homebrew Version: [The output from `brew --version`, e.g. 2.0.1-23-g1fd8b38]
  * Operating System and Version: [e.g. macOS Mojave 10.14.3]
 
 **Additional context**  

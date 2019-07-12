@@ -1,6 +1,6 @@
 require "language/node"
 
-class StackpathServerlessScriptingCli < Formula
+class SpServerless < Formula
   desc "Deploy to StackPath's serverless scripting platform from your local machine"
   homepage "https://github.com/stackpath/serverless-scripting-cli"
   url "https://registry.npmjs.org/@stackpath/serverless-scripting-cli/-/serverless-scripting-cli-2.0.1.tgz"

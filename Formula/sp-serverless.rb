@@ -17,4 +17,4 @@ class SpServerless < Formula
   test do
     system "#{HOMEBREW_PREFIX}/bin/sp-serverless", "-h"
   end
-  end
+end

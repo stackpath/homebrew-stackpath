@@ -3,9 +3,9 @@ require "language/node"
 class SpServerless < Formula
   desc "Deploy to StackPath's serverless scripting platform from your local machine"
   homepage "https://github.com/stackpath/serverless-scripting-cli"
-  url "https://registry.npmjs.org/@stackpath/serverless-scripting-cli/-/serverless-scripting-cli-2.1.0.tgz"
-  version "2.1.0"
-  sha256 "dc1cc24a273485b0de04c892bad376bb47021d71dbebc64190a32e4cf6c5109a"
+  url "https://registry.npmjs.org/@stackpath/serverless-scripting-cli/-/serverless-scripting-cli-2.1.1.tgz"
+  version "2.1.1"
+  sha256 "a5aa4f4d1086b79e691579d637a5f82e77e1cd7cebd15bce52f102f524d30b10"
 
   depends_on "node"
 
